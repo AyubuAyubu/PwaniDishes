@@ -1,0 +1,65 @@
+{
+    "dishes": [
+      {
+        "id": 1,
+        "name": "Biryani",
+        "price": 350,
+        "image": "./assets/biryani.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Burger",
+        "price": 100,
+        "image": "./assets/burger.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Butter Chicken",
+        "price": 400,
+        "image": "./assets/butterchicken.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Dessert",
+        "price": 200,
+        "image": "./assets/dessert.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Kaimati",
+        "price": 10,
+        "image": "./assets/kaimati.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Mabuyu",
+        "price": 100,
+        "image": "./assets/mabuyu.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Mkate wa sinia",
+        "price": 15,
+        "image": "./assets/mkate.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Pasta",
+        "price": 40,
+        "image": "./assets/pasta.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Rice",
+        "price": 100,
+        "image": "./assets/rice.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Samosa",
+        "price": 20,
+        "image": "./assets/samosa.jpg"
+      }
+    ]
+    
+  }
